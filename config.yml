@@ -1,0 +1,7 @@
+players:
+  min: 15 #min player to start
+  max: 30 #Max player in game (If you don't want any spectator in waiting set server slot at this number)
+game:
+  pvp_start: 1800 #Time to start pvp in seconde
+  nodamage_time: 10
+  

@@ -1,0 +1,25 @@
+name: UHCSwap
+author: GartoxFR
+version: 1.0
+main: com.gartox.uhcswap.UHCSwap
+commands:
+  start:
+    description: Description de la commande.
+    usage: /exemple [parametre1] [parametre2]
+    permission: permission.exemple
+    aliases:
+    - ex
+    - e
+    
+  swap:
+    description: Description de la commande.
+    usage: /swap 
+    
+  reset:
+    description: reset
+    usage: /reset
+  
+  lobby:
+    description: lobby
+    usage: /lobby 
+   
